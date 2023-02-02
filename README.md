@@ -1,5 +1,5 @@
 # the-tea-shop
-*look at some libraries*
+*Grab a cup of tea and look at some libraries*
 
 ## Description
 
