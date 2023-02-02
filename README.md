@@ -1,9 +1,9 @@
 # the-tea-shop
-*Grab a cup of tea and look at some libraries*
+*Matcha & ADTs*
 
 ## Description
 
-Here are all of my ADT's and other libraries I have made
+Here are all of my ADTs I have made
 
 ## Notes
 
