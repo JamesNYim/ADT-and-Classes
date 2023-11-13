@@ -1,4 +1,4 @@
-# Big Integer Class
+# Assignment 6: Big big big numbers
 
 ## Short description:
 	This class is able to add subtract and multiply really big numbers. Division is not supported in this version
